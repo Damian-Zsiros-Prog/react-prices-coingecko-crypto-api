@@ -1,6 +1,6 @@
 # React-Prices-CoinGecko
 
-## Esta es una aplicacion de la api de [CoinGecko](https://www.coingecko.com/es/api/documentation) en React usando componentes, custom hooks y demas
+## Esta es una aplicacion de la api de [CoinGecko](https://www.coingecko.com/es/api/documentation) en React usando Materialize CSS, componentes, custom hooks y demas
 
 ![capture](public/Capture-React&CoinGecko.png)
 
